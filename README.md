@@ -1,4 +1,4 @@
-<h2 align="left">Hello! My name is Nelson Douglas.<br><br>I am a software developer experienced in building machine-learning powered systems.</h2>
+<h2 align="left">Hello! My name is Naelson Douglas.<br><br>I am a software developer experienced in building machine-learning powered systems.</h2>
 
 ###
 
